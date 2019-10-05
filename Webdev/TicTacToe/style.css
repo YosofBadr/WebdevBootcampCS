@@ -1,0 +1,46 @@
+td {
+	border: 1px solid black;
+}
+
+table {
+	height: 400px;
+	width: 400px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+#topRow td {
+	border-top: none;
+}
+
+#topRow .left {
+	border-left: none;
+}
+
+#topRow .right {
+	border-right: none;
+}
+
+#bottomRow td {
+	border-bottom: none;
+}
+
+#bottomRow .left {
+	border-left: none;
+}
+
+#bottomRow .right {
+	border-right: none;
+}
+
+#middleRow .left {
+	border-left: none;
+}
+
+#middleRow .right {
+	border-right: none;
+}
+
